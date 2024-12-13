@@ -17,3 +17,5 @@ M
 contracts/usage-tracking.clar,e/9/e9b09179d691ec658ec849bf83481dab4134e530
 L
 tests/usage-tracking.test.ts,f/3/f3ccbb830bb90abf63cbc09d0b13119cf315d93c
+E
+contracts/voting.clar,8/c/8c1cfbbcd734bf0b786519a1bc3ab7e69673a66c
