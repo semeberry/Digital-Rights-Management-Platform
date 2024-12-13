@@ -19,6 +19,11 @@ epoch = 2.5
 path = 'contracts/royalty-distribution.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.usage-tracking]
+path = 'contracts/usage-tracking.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
